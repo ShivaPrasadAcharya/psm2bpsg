@@ -1,5 +1,4 @@
 var data5Url2 = `sno,subject,description,shorturl,longurl
-02b,git-Link,HTML,index.html,https://github.com/ShivaPrasadAcharya/akaladevi.git.io/edit/main/index.html
 
 `;
 
@@ -15,5 +14,6 @@ var data5Url2Info = {
         "subject": "blue"
     }
 };
+
 
 
