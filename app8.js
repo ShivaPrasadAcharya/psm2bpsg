@@ -188,7 +188,7 @@
         htmlRibbon.style.display = 'inline-block';
         htmlRibbon.style.position = 'relative';
         htmlRibbon.style.marginLeft = '8px';
-        /*htmlRibbon.innerHTML = '<button class="html-ribbon-btn">NoteX</button>';*/
+        htmlRibbon.innerHTML = '<button class="html-ribbon-btn">NoteX</button>';
         var htmlSubmenu = document.createElement('div');
         htmlSubmenu.style.display = 'none';
         htmlSubmenu.style.position = '';
@@ -282,3 +282,4 @@
     style.textContent = '.md-search-highlight { background: #fff3cd; color: #d35400; border-radius: 3px; padding: 1px 2px; } .md-search-current { background: #ff6b6b !important; color: #fff !important; } .md-html-search-bar .md-search-input { width: 40%; min-width: 120px; max-width: 100%; } @media (max-width: 600px) { .md-html-search-bar .md-search-input { width: 90%; min-width: 60px; } }';
     document.head.appendChild(style);
 })();
+
