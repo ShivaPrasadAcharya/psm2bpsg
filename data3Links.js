@@ -4,7 +4,8 @@ var data3Links = `ID,Categry,Subject,Remark,Link
 003,Syllables,BPSG 7th sem-PSMII syllables,html,HTML/psm2syllablesbpsg.htm
 004,Past Questions,BPSG 7th sem-PSMII Past Question,pdf,DOCS/pastquestions.pdf
 005,Past Questions,BPSG 7th sem-PSMII Past Question,html,HTML/pastquestions.htm
-006,Contacts,BPSG 7th sem-2082 contact list,html,HTML/contactlist.html
+006a,Contacts,BPSG 7th sem-2082 contact list,pdf,DOCS/studentinfo.pdf
+006b,Contacts,BPSG 7th sem-2082 contact list,word doc,DOCS/studentinfo.docx
 007a,Answers Sheet-PSMII,Topper Paper-Ist schedule exam 2081 ,pdf,DOCS/bestanswerpsm2081.pdf
 007b,Best Answers-PSMII,Jeeya's Answer Sheet-PreBoard Exam-2082,pdf,DOCS/bestanswerofpreboard2082.pdf
 007c,Answers-PSMII,Dikshya Answer Sheet-2082 IInd schedule exam,pdf,DOCS/secondtestanswersheet2082.pdf

@@ -26,7 +26,7 @@ var data1Trainees = `SNo,RollNo.,Name,Per. Address,Temp.Address,Email,Phone No.
 24,27,Mallika Dwariya,Doti,New Plaza,mallikadwariya@gmail.com,9862477612`;
 // Dataset metadata
 var data1TraineesInfo = {
-    name: "Dear Students",
+    name: "StudentInfo",
     description: "data without links and hyperlinks",
     emoji: "👥",
     columns: 6,

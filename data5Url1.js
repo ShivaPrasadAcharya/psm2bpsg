@@ -1,5 +1,6 @@
 var data5Url1 = `sno,subject,description,shorturl,longurl
-01a,Contact List,BPSG 7th sem-2082,contact list,DOCS/contactlist.docx
+01a,Contact List,BPSG 7th sem-2082(Mansir),contact list,DOCS/studentinfo.docx
+01b,Contact List,BPSG 7th sem-2082(Mansir),contact list,DOCS/studentinfo.pdf
 02ac,past questions,BPSG 7th sem-PSMII Past Question,see Past Questions-docx,DOCS/pastquestions.docx
 02b,git-Link,HTML,index.html,https://github.com/ShivaPrasadAcharya/psm2bpsg/edit/main/index.html
 02c,git-Link,Images,data2Images.js,https://github.com/ShivaPrasadAcharya/psm2bpsg/edit/main/data2Images.js
