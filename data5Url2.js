@@ -1,10 +1,12 @@
 var data5Url2 = `sno,subject,description,shorturl,longurl
+01,Contact List,BPSG 7th sem-2082(Mansir),open word doc,DOCS/studentinfo.docx
+02,Contact List,BPSG 7th sem-2082(Mansir),open pdf file,DOCS/studentinfo.pdf
 
 `;
 
 // Dataset metadata
 var data5Url2Info = {
-    name: "No Content Yet",
+    name: "Contact",
     description: "Important Urls-non git links, color columns",
     emoji: "🔗",
     columns: 5,
