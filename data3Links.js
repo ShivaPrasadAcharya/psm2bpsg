@@ -24,7 +24,7 @@ var data3Links = `ID,Categry,Subject,Remark,Link
 // Dataset metadata
 var data3LinksInfo = {
     name: "Notes",
-    description: "Non url links,repo documents links",
+    description: "Special thanks to Pritee Kumari Pandit for her cooperation to prepare contact directory.",
     emoji: "🔗",
     columns: 5,
     primaryKey: "ID"
