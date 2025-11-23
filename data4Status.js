@@ -1,12 +1,12 @@
 var data4Status = `SNo,Name(RollNo),Topic,Remarks(✗=not submitted, ✓=submitted)
 01,Aaryaka Timsina(16),e-Identity (Estonia),✗
-02,Aashma pokharel(2),e-Residency (Estonia),✗
+02,Aashma Pokharel(2),e-Residency (Estonia),✗
 03,Aastha Yadav(8),Smart-ID (Estonia),✗
 04,Anjali Chaudhary(5),X-Road (Estonia),✗
 05,Asmita Rai(4),e-Land Register (Estonia),✗
 06,Asmita Upreti(14),Population Registry (Estonia),✗
 07,Deeksha Rani(18),E-waste Recycling (China),✗
-08,Depa oli(15),KSI Blockchain (Estonia),✗
+08,Depa Oli(15),KSI Blockchain (Estonia),✗
 09,Dibina Dangol(6),e-Justice (Estonia),✗
 10,Kritika Kathyat(1),e-Police (Estonia),✗
 11,Mallika Dwariya(27),i-Voting (Estonia),✗
