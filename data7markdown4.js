@@ -127,7 +127,7 @@ DEVELOPMENT MANAGEMENT HIERARCHY (Federal Nepal)
 
 ### 2.1 National Planning Commission (NPC)
 
-**Legal Basis**: National Planning Commission Act, 2058 (2002)
+**Legal Basis**: National Planning Commission formation Order, 2074
 
 **Key Functions:**
 1. Formulate periodic and annual development plans
