@@ -119,6 +119,7 @@ DEVELOPMENT MANAGEMENT HIERARCHY (Federal Nepal)
 │
 └── LOCAL LEVEL
     ├── Municipal/Rural Municipal Executive
+    ├── District Development Committee
     ├── Planning & Monitoring Committees
     ├── Ward Committees
     └── Sectoral Implementation Units
