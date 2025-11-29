@@ -2,9 +2,9 @@
 window.markdown3Content = `
 # DEVELOPMENT PROCESS MANAGEMENT IN NEPAL
 
-## CONCEPTUAL FRAMEWORK
+# CONCEPTUAL FRAMEWORK
 
-```
+<pre>
 DEVELOPMENT PROCESS MANAGEMENT
          |
          ├── PLANNING (Strategic Direction)
@@ -26,11 +26,11 @@ DEVELOPMENT PROCESS MANAGEMENT
               ├── Inter-ministerial Coordination
               ├── Inter-governmental Coordination
               └── Stakeholder Engagement
-```
+</pre>
 
 ---
 
-## 1. THEORETICAL FOUNDATIONS
+# 1. THEORETICAL FOUNDATIONS
 
 ### 1.1 Definition and Scope
 
@@ -45,7 +45,7 @@ DEVELOPMENT PROCESS MANAGEMENT
 
 ### 1.2 Objectives
 
-```
+<pre>
 PRIMARY OBJECTIVES
 │
 ├── Economic Development
@@ -72,7 +72,7 @@ PRIMARY OBJECTIVES
     ├── Resource conservation
     ├── Climate adaptation
     └── Green development
-```
+</pre>
 
 ### 1.3 Development Management Principles
 
@@ -86,9 +86,9 @@ PRIMARY OBJECTIVES
 
 ---
 
-## 2. ORGANIZATIONAL STRUCTURE
+# 2. ORGANIZATIONAL STRUCTURE
 
-```
+<pre>
 DEVELOPMENT MANAGEMENT HIERARCHY (Federal Nepal)
 │
 ├── NATIONAL LEVEL
@@ -122,7 +122,7 @@ DEVELOPMENT MANAGEMENT HIERARCHY (Federal Nepal)
     ├── Planning & Monitoring Committees
     ├── Ward Committees
     └── Sectoral Implementation Units
-```
+</pre>
 
 ### 2.1 National Planning Commission (NPC)
 
@@ -182,7 +182,7 @@ Each ministry responsible for:
 - 460 Rural Municipalities
 
 **Local Planning Structure:**
-```
+<pre>
 Municipal/Rural Municipal Executive
 │
 ├── Planning & Monitoring Committee
@@ -198,7 +198,7 @@ Municipal/Rural Municipal Executive
     ├── Health Committee
     ├── Infrastructure Committee
     └── Others
-```
+</pre>
 
 ### 2.5 Development Partners
 
@@ -210,11 +210,11 @@ Municipal/Rural Municipal Executive
 
 ---
 
-## 3. DEVELOPMENT PLANNING PROCESS
+# 3. DEVELOPMENT PLANNING PROCESS
 
 ### 3.1 Planning Hierarchy
 
-```
+<pre>
 PLANNING FRAMEWORK
 │
 ├── LONG-TERM VISION (25-30 years)
@@ -235,11 +235,11 @@ PLANNING FRAMEWORK
     ├── Budget allocation
     ├── Implementation schedules
     └── Performance indicators
-```
+</pre>
 
 ### 3.2 Planning Cycle
 
-```
+<pre>
 ANNUAL PLANNING CYCLE
 │
 ├── PHASE 1: Preparation (Baisakh-Ashadh)
@@ -268,7 +268,7 @@ ANNUAL PLANNING CYCLE
     ├── Project implementation
     ├── Quarterly monitoring
     └── Annual evaluation
-```
+</pre>
 
 ### 3.3 Bottom-Up Planning Process
 
@@ -332,9 +332,9 @@ ANNUAL PLANNING CYCLE
 
 ---
 
-## 4. PROJECT CYCLE MANAGEMENT
+# 4. PROJECT CYCLE MANAGEMENT
 
-```
+<pre>
 PROJECT CYCLE
 │
 ├── IDENTIFICATION
@@ -376,7 +376,7 @@ PROJECT CYCLE
     ├── Asset handover
     ├── Lessons learned
     └── Impact assessment
-```
+</pre>
 
 ### 4.1 Project Classification
 
@@ -426,11 +426,11 @@ PROJECT CYCLE
 
 ---
 
-## 5. BUDGET MANAGEMENT
+# 5. BUDGET MANAGEMENT
 
 ### 5.1 Budget Structure
 
-```
+<pre>
 GOVERNMENT BUDGET
 │
 ├── RECURRENT EXPENDITURE
@@ -444,11 +444,11 @@ GOVERNMENT BUDGET
     ├── Development programs
     ├── Asset creation
     └── Capacity building
-```
+</pre>
 
 ### 5.2 Budget Formulation Process
 
-```
+<pre>
 BUDGET PREPARATION TIMELINE
 │
 ├── Chaitra (Mid-March)
@@ -468,7 +468,7 @@ BUDGET PREPARATION TIMELINE
     ├── Budget speech in Parliament
     ├── Parliamentary debate
     └── Budget Act approval (before new fiscal year)
-```
+</pre>
 
 ### 5.3 Medium-Term Expenditure Framework (MTEF)
 
@@ -489,7 +489,7 @@ BUDGET PREPARATION TIMELINE
 ### 5.4 Budget Execution
 
 **Fund Release Mechanism:**
-```
+<pre>
 Fund Flow
 │
 ├── Treasury Single Account (TSA)
@@ -505,7 +505,7 @@ Fund Flow
     ├── Work plan approval
     ├── Previous quarter expenditure report
     └── Compliance with procedures
-```
+</pre>
 
 **Financial Management Systems:**
 1. **LMBIS** (Line Ministry Budget Information System)
@@ -534,11 +534,11 @@ Fund Flow
 
 ---
 
-## 6. MONITORING AND EVALUATION (M&E)
+# 6. MONITORING AND EVALUATION (M&E)
 
 ### 6.1 M&E Framework
 
-```
+<pre>
 MONITORING & EVALUATION SYSTEM
 │
 ├── INPUT MONITORING
@@ -570,7 +570,7 @@ MONITORING & EVALUATION SYSTEM
     ├── Socio-economic changes
     ├── Policy impact
     └── Sustainability assessment
-```
+</pre>
 
 ### 6.2 Monitoring Mechanisms
 
@@ -621,7 +621,7 @@ MONITORING & EVALUATION SYSTEM
 ### 6.4 Performance Indicators
 
 **Types of Indicators:**
-```
+<pre>
 INDICATOR HIERARCHY
 │
 ├── Input Indicators
@@ -643,7 +643,7 @@ INDICATOR HIERARCHY
     ├── Poverty reduced
     ├── Income increased
     └── Quality of life improved
-```
+</pre>
 
 **SMART Indicators:**
 - **S**pecific: Clearly defined
@@ -654,7 +654,7 @@ INDICATOR HIERARCHY
 
 ---
 
-## 7. COORDINATION MECHANISMS
+# 7. COORDINATION MECHANISMS
 
 ### 7.1 Horizontal Coordination (Inter-ministerial)
 
@@ -676,7 +676,7 @@ INDICATOR HIERARCHY
 
 ### 7.2 Vertical Coordination (Inter-governmental)
 
-```
+<pre>
 FEDERAL COORDINATION STRUCTURE
 │
 ├── National Level
@@ -693,7 +693,7 @@ FEDERAL COORDINATION STRUCTURE
     ├── District coordination committees
     ├── Municipal associations
     └── Service delivery coordination
-```
+</pre>
 
 **Coordination Instruments:**
 1. **Fiscal Transfers**: Equalization, conditional, and matching grants
@@ -719,7 +719,7 @@ FEDERAL COORDINATION STRUCTURE
 
 ---
 
-## 8. KEY PROCEDURES AND SYSTEMS
+# 8. KEY PROCEDURES AND SYSTEMS
 
 ### 8.1 Public Procurement
 
@@ -728,7 +728,7 @@ FEDERAL COORDINATION STRUCTURE
 - Public Procurement Regulations, 2064 (2007)
 
 **Procurement Methods:**
-```
+<pre>
 PROCUREMENT METHODS
 │
 ├── Open Bidding (Default method)
@@ -743,7 +743,7 @@ PROCUREMENT METHODS
 │
 └── Shopping Method
     └── For low-value procurement
-```
+</pre>
 
 **Procurement Process:**
 1. Need identification and budgeting
@@ -806,12 +806,12 @@ PROCUREMENT METHODS
 
 ---
 
-## 9. PROFESSIONAL PRACTICES
+# 9. PROFESSIONAL PRACTICES
 
 ### 9.1 Results-Based Management (RBM)
 
 **Core Elements:**
-```
+<pre>
 RBM FRAMEWORK
 │
 ├── Results Chain
@@ -830,7 +830,7 @@ RBM FRAMEWORK
     ├── Performance agreements
     ├── Result-based budgeting
     └── Performance incentives
-```
+</pre>
 
 **Implementation Steps:**
 1. Define clear results hierarchy
@@ -866,7 +866,7 @@ RBM FRAMEWORK
 ### 9.3 Gender Equality and Social Inclusion (GESI)
 
 **GESI Mainstreaming:**
-```
+<pre>
 GESI INTEGRATION
 │
 ├── Planning
@@ -883,7 +883,7 @@ GESI INTEGRATION
     ├── Sex-disaggregated data
     ├── Social audit
     └── Inclusion indicators
-```
+</pre>
 
 **Target Groups:**
 - Women
@@ -937,7 +937,7 @@ GESI INTEGRATION
 
 ---
 
-## 10. DIGITAL TOOLS AND SYSTEMS
+# 10. DIGITAL TOOLS AND SYSTEMS
 
 ### 10.1 Major Information Systems
 
@@ -991,11 +991,11 @@ GESI INTEGRATION
 
 ---
 
-## 11. CHALLENGES IN DEVELOPMENT PROCESS MANAGEMENT
+# 11. CHALLENGES IN DEVELOPMENT PROCESS MANAGEMENT
 
 ### 11.1 Institutional Challenges
 
-```
+<pre>
 INSTITUTIONAL ISSUES
 │
 ├── Capacity Constraints
@@ -1021,7 +1021,7 @@ INSTITUTIONAL ISSUES
     ├── Frequent transfers
     ├── Lack of continuity
     └── Short-term focus
-```
+</pre>
 
 ### 11.2 Financial Challenges
 
@@ -1114,12 +1114,12 @@ INSTITUTIONAL ISSUES
 
 ---
 
-## 12. REFORMS AND RECENT INITIATIVES
+# 12. REFORMS AND RECENT INITIATIVES
 
 ### 12.1 Federalization of Development Planning
 
 **Key Changes:**
-```
+<pre>
 FEDERAL DEVELOPMENT PLANNING
 │
 ├── Decentralization of Powers
@@ -1143,7 +1143,7 @@ FEDERAL DEVELOPMENT PLANNING
     ├── Technical assistance
     ├── System development
     └── Exchange programs
-```
+</pre>
 
 **Intergovernmental Coordination:**
 - National Natural Resources and Fiscal Commission
