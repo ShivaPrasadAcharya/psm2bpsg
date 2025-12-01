@@ -1,5 +1,5 @@
 // data7markdown1.js
-window.markdown1Content = `
+window.markdown7Content = `
 # MANAGEMENT OF RECRUITMENT AND SELECTION PROCESS IN NEPAL
 
 # CONCEPTUAL FRAMEWORK
@@ -756,7 +756,7 @@ Effective recruitment and selection management is foundational to building a pro
 - **Open Competition**: Transparent examination-based recruitment open to all eligible candidates
 
 `;
-window.markdown1Meta = { 
+window.markdown7Meta = { 
   name: "Sample markdown-Empty",
    emoji: "📄"
 
