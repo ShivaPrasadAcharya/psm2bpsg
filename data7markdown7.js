@@ -757,7 +757,7 @@ Effective recruitment and selection management is foundational to building a pro
 
 `;
 window.markdown7Meta = { 
-  name: "Sample markdown-Empty",
+  name: "Mgmt of Recruitment & Selection",
    emoji: "📄"
 
    };
