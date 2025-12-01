@@ -119,7 +119,6 @@ LAND MANAGEMENT HIERARCHY IN NEPAL
                    ├── Land use planning
                    ├── Local revenue collection
                    └── Urban land management
-
 </pre>
 
 ---
@@ -149,7 +148,6 @@ PRIMARY FUNCTIONS
               ├── Performance monitoring
               ├── Compliance checking
               └── Impact assessment
-
 </pre>
 
 ### 2. **District Land Revenue Office (Malpot)**
@@ -176,7 +174,6 @@ CORE SERVICES
               ├── Ownership certificates
               ├── Land valuation certificates
               └── Encumbrance certificates
-
 </pre>
 
 ### 3. **Survey Department**
@@ -279,7 +276,7 @@ CADASTRAL SURVEY PROCEDURE
 REVENUE COLLECTION SYSTEM
          |
          ├── Assessment
-         │    ├── Land classification (Awal, Doyam, Sim, Char)
+         │    ├── Land classification (Abbal, Doyam, Sim, Char)
          │    ├── Area calculation
          │    └── Rate application
          │
@@ -459,7 +456,6 @@ CHALLENGES IN LAND MANAGEMENT
               ├── Policy inconsistencies
               ├── Resource constraints
               └── Political interference
-
 </pre>
 
 ---
@@ -498,7 +494,6 @@ MODERNIZATION EFFORTS
               ├── Grievance redressal mechanisms
               ├── Public awareness campaigns
               └── Stakeholder participation
-
 </pre>
 
 ---
@@ -564,7 +559,6 @@ POST-2015 FEDERAL ARRANGEMENT
    - Receipt collection
 
 5. **Registration**
-   - Entry in Dhitopatra book
    - Entry in ownership register
    - Computer system update
 
@@ -589,14 +583,13 @@ POST-2015 FEDERAL ARRANGEMENT
 |------|------------|
 | **Lalpurja** | Land ownership certificate (red document) |
 | **Malpot** | Land revenue office |
-| **Ailani** | Government-owned land |
+| **Ailani** | Possessory land without ownership proofs|
 | **Raikar** | Private land with ownership rights |
 | **Jagga** | Land (general term) |
-| **Dhitopatra** | Registration book |
 | **Napi** | Survey/measurement |
 | **Char Killa** | Boundary demarcation |
-| **Awal, Doyam, Sim, Char** | Land quality classifications |
-| **Bigha, Kattha, Dhur** | Traditional land measurement units |
+| **Abbal, Doyam, Sim, Char** | Land quality classifications |
+| **Bigha, Kattha, Dhur** | Traditional land measurement units (terai)|
 | **Ropani, Aana, Paisa, Dam** | Land measurement units (hills) |
 
 ---
@@ -640,12 +633,12 @@ POST-2015 FEDERAL ARRANGEMENT
 - Land Act 1964
 - Constitution of Nepal 2015 (Schedule 5-9)
 - Land Use Policy 2015
-- National Land Policy (
+- National Land Policy ()
 
 `;
 window.markdown6Meta = { 
   name: "Land Mgmt",
-   emoji: ""
+   emoji: "📄"
 
    };
 

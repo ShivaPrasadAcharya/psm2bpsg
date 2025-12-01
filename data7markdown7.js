@@ -59,7 +59,7 @@ RECRUITMENT & SELECTION MANAGEMENT (Human Resource Acquisition)
 LEGAL HIERARCHY
          |
          ├── CONSTITUTION OF NEPAL 2015
-         │    ├── Article 240-246 (Public Service Commission)
+         │    ├── Article 240-242 (Public Service Commission)
          │    ├── Fundamental Rights (Equality, Employment Rights)
          │    └── Directive Principles
          │
@@ -92,7 +92,7 @@ LEGAL HIERARCHY
 - Each province shall have a Provincial PSC
 - Similar functions at provincial level
 
-**Article 243: Inclusive Representation**
+**Inclusive Representation**
 - Provisions for women, Dalits, indigenous peoples, Madhesis, Tharus, Muslims, backward regions
 - Proportional inclusion principle in civil service
 
@@ -115,8 +115,8 @@ RECRUITMENT MANAGEMENT INSTITUTIONS
          |
          ├── PUBLIC SERVICE COMMISSION (PSC)
          │    ├── Federal PSC
-         │    ├── Provincial PSC (7 provinces)
-         │    └── Local Service Commissions
+         │    └── Provincial PSC (7 provinces)
+         │    
          │
          ├── MINISTRY OF GENERAL ADMINISTRATION
          │    ├── Policy formulation
@@ -130,9 +130,6 @@ RECRUITMENT MANAGEMENT INSTITUTIONS
          │
          └── SPECIALIZED COMMISSIONS
               ├── Judicial Service Commission (Judiciary)
-              ├── National Natural Resources Commission
-              └── Other Constitutional Bodies
-
 </pre>
 
 ### 3.1 Public Service Commission (PSC)
@@ -199,7 +196,6 @@ RECRUITMENT STAGES
               ├── Eligibility Verification
               ├── Document Checking
               └── Shortlisting for Selection
-
 </pre>
 
 ### 4.1 Manpower Planning
@@ -319,7 +315,6 @@ SELECTION STAGES
               ├── Merit List Preparation
               ├── PSC Recommendation
               └── Appointment Order
-
 </pre>
 
 ### 5.1 Written Examination
