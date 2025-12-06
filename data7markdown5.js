@@ -3,8 +3,8 @@ window.markdown5Content = `
 # ELECTION MANAGEMENT IN NEPAL (latest update:2082.08.20)
 
 # CONCEPTUAL FRAMEWORK
-** शान्तस्वतन्त्रस्वच्छशुद्ध विश्वानिष्पक्षभयरहितम्
-पारदर्शी समावेशी निर्वाचन नवलक्षणम्**
+**शान्तस्वतन्त्रस्वच्छशुद्ध विश्वानिष्पक्षभयरहितम्**
+**पारदर्शी समावेशी निर्वाचन नवलक्षणम्**
 <pre>
 ELECTION MANAGEMENT SYSTEM
 │
