@@ -1,6 +1,6 @@
 // election management
 window.markdown5Content = `
-# ELECTION MANAGEMENT IN NEPAL
+# ELECTION MANAGEMENT IN NEPAL (latest update:2082.08.20)
 
 # CONCEPTUAL FRAMEWORK
 ** शान्तस्वतन्त्रस्वच्छशुद्ध विश्वानिष्पक्षभयरहितम्
