@@ -3,7 +3,8 @@ window.markdown5Content = `
 # ELECTION MANAGEMENT IN NEPAL
 
 # CONCEPTUAL FRAMEWORK
-
+** शान्तस्वतन्त्रस्वच्छशुद्ध विश्वानिष्पक्षभयरहितम्
+पारदर्शी समावेशी निर्वाचन नवलक्षणम्**
 <pre>
 ELECTION MANAGEMENT SYSTEM
 │
@@ -32,14 +33,15 @@ ELECTION MANAGEMENT SYSTEM
 └── ELECTORAL SYSTEMS
     ├── FPTP (First Past the Post)
     ├── PR (Proportional Representation)
-    └── Mixed electoral system
+    ├── Single Transferable Voting System (NA)
+    └── Mixed electoral system (hybrid)
 
 </pre>
 
 ---
 
 # 1. INTRODUCTION TO ELECTION MANAGEMENT
-
+  
 ### 1.1 Definition and Scope
 
 **Election Management** = Comprehensive system of planning, organizing, conducting, and supervising elections to ensure free, fair, credible, and inclusive democratic processes.
@@ -81,13 +83,19 @@ SIGNIFICANCE
 ### 1.3 Principles of Electoral Management
 
 **Core Principles:**
-1. **Independence**: Free from government/political interference
-2. **Impartiality**: Neutral towards all political parties
-3. **Integrity**: Honest and ethical conduct
-4. **Transparency**: Open and visible processes
-5. **Professionalism**: Technical competence and efficiency
-6. **Service Orientation**: Voter-friendly approach
-7. **Accountability**: Responsible to law and citizens
+1. **Principle of Peacefullness (शान्त)**: Free from chaos
+2. **Principle of Independence (स्वतन्त्र)**: Free from government/political interference
+3. **Principle of Fairness (स्वच्छ)**: Free from unfairness
+4. **Principle of Accuracy (शुद्ध)**: Accuracy in counting
+5. **Principle of Trust (विश्वसनीय)**: Trustworthiness
+6. **Principle of Impartiality (निष्पक्ष) **: Neutral towards all political parties
+7. **Principle of Fearless (भयरहितम्) **: Neutral towards all political parties
+8. **Principle of Transparency (पारदर्शि)**: Open and visible processes
+9. **Principle of Inclusive (समावेशी)**: no eligible person is excluded
+Other Principles:
+- **Principle of Professionalism**: Technical competence and efficiency
+- **Principle of Service Orientation**: Voter-friendly approach
+- **Principle of Accountability**: Responsible to law and citizens
 
 ---
 
@@ -128,12 +136,12 @@ CONSTITUTIONAL PROVISIONS
 ### 2.2 Fundamental Electoral Rights
 
 **Constitutional Rights:**
-1. **Right to Vote** (Article 17(a))
+1. **Right to Vote** (Article 17(2)(a))
    - Every citizen aged 18 and above
    - Right to secret ballot
    - Free and fair elections
 
-2. **Right to be Elected** (Article 17(b))
+2. **Right to be Voted** 
    - Subject to qualifications
    - Equal opportunity
 
@@ -148,7 +156,7 @@ CONSTITUTIONAL PROVISIONS
 NEPAL'S ELECTORAL SYSTEM
 │
 ├── First Past The Post (FPTP) - Majority
-│   ├── 165 federal constituencies
+│   ├── 165 constituencies
 │   ├── Direct election
 │   └── Winner-takes-all
 │
@@ -191,8 +199,8 @@ LEGAL FRAMEWORK HIERARCHY
 │
 └── Other Related Laws
     ├── Political Party Act, 2073 (2017)
-    ├── Right to Information Act
-    └── Civil and Criminal Codes
+    ├── Right to Information Act, 2064
+    └── Civil and Criminal Codes, 2074
 
 </pre>
 
@@ -1443,56 +1451,7 @@ DELIMITATION PROCEDURE
 
 # 4. ELECTORAL PROCESS AND PROCEDURES
 
-### 4.1 Complete Election Cycle
 
-<pre>
-ELECTION CYCLE
-│
-├── PRE-ELECTION PHASE (6-12 months)
-│   ├── Election announcement
-│   ├── Election schedule publication
-│   ├── Voter registration/update
-│   ├── Electoral roll finalization
-│   ├── Constituency delimitation (if needed)
-│   └── Logistical preparation
-│
-├── NOMINATION PHASE (2-4 weeks)
-│   ├── Call for nominations
-│   ├── Nomination filing
-│   ├── Scrutiny of nominations
-│   ├── Objections and clarifications
-│   ├── Withdrawal period
-│   └── Final candidate list
-│
-├── CAMPAIGN PHASE (2-4 weeks)
-│   ├── Official campaign period
-│   ├── Code of conduct enforcement
-│   ├── Media monitoring
-│   ├── Public meetings and rallies
-│   └── Campaign expenditure monitoring
-│
-├── POLLING PHASE (1 day, usually)
-│   ├── Polling station setup
-│   ├── Voter identification
-│   ├── Ballot casting
-│   ├── Voting process monitoring
-│   └── Poll closing procedures
-│
-├── COUNTING PHASE (1-3 days)
-│   ├── Ballot box opening
-│   ├── Vote counting
-│   ├── Result compilation
-│   ├── Result verification
-│   └── Result declaration
-│
-└── POST-ELECTION PHASE
-    ├── Official result publication
-    ├── Certificate distribution
-    ├── Complaint resolution
-    ├── Electoral dispute settlement
-    └── Report preparation
-
-</pre>
 
 ### 4.2 Voter Registration
 
@@ -1942,32 +1901,6 @@ DISPUTE RESOLUTION HIERARCHY
 - Result materially affected
 
 **Procedure:**
-<pre>
-ELECTION PETITION PROCESS
-│
-├── Filing (Within 35 days of result)
-│   ├── In Supreme Court
-│   ├── With security deposit
-│   └── Detailed grounds
-│
-├── Hearing
-│   ├── Fast-track procedure
-│   ├── Evidence presentation
-│   ├── Counter-arguments
-│   └── EC may be party
-│
-├── Decision
-│   ├── Election upheld, or
-│   ├── Election declared void, or
-│   ├── Winner changed
-│   └── Time-bound disposal (6 months)
-│
-└── Implementation
-    ├── If election void: Fresh election
-    ├── If winner changed: Certificate to new winner
-    └── No appeal (SC decision final)
-
-</pre>
 
 ### 5.3 Electoral Offenses and Penalties
 
