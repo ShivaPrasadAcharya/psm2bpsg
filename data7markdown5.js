@@ -1108,45 +1108,6 @@ ELECTION MANAGEMENT
 
 ---
 
-# 1. CONSTITUTIONAL AND LEGAL FRAMEWORK
-
-### 1.1 Constitutional Provisions
-
-<pre>
-CONSTITUTION OF NEPAL 2072 (2015)
-│
-├── PART 4: FUNDAMENTAL RIGHTS
-│   ├── Right to Vote (Article 17)
-│   │   ├── Every Nepali citizen 18+ years
-│   │   ├── Free and secret ballot
-│   │   └── Cannot be deprived except by law
-│   │
-│   └── Right to be Elected (Article 17)
-│       ├── Qualification requirements
-│       └── Equal opportunity
-│
-├── PART 13: CONSTITUTIONAL BODIES
-│   └── Election Commission (Articles 245-248)
-│       ├── Independent constitutional body
-│       ├── Composition and appointment
-│       ├── Functions and powers
-│       └── Independence guaranteed
-│
-├── PART 16: ELECTION
-│   └── Articles 283-286
-│       ├── Electoral system specifications
-│       ├── Election conduct provisions
-│       ├── Election constituencies
-│       └── Code of conduct
-│
-└── RELATED PROVISIONS
-    ├── Political Party provisions (Article 269-274)
-    ├── Federal Parliament elections
-    ├── Provincial Assembly elections
-    └── Local level elections
-
-</pre>
-
 ### 1.2 Electoral Laws
 
 **Primary Legislation:**
@@ -1157,7 +1118,7 @@ CONSTITUTION OF NEPAL 2072 (2015)
    - Staff and administration
    - Budget and finance
 
-2. **House of Representatives Members Election Act, 2074 (2017)**
+2. **HOR Election Act, 2074 (2017)**
    - Federal parliament election procedures
    - First-Past-The-Post (FPTP) provisions
    - Proportional Representation (PR) provisions
