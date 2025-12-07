@@ -1069,10 +1069,7 @@ INSTITUTIONAL ISSUES
 **Technological Challenges:**
 ........
 
-# ELECTION MANAGEMENT IN NEPAL
-
-<pre>
-ELECTION MANAGEMENT
+# ELECTION MANAGEMENT IN NEPAL (Old Note-IIIrd Batch)
 │
 ├── DEFINITION
 │   └── Systematic process of organizing, conducting, and 
