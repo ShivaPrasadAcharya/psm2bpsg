@@ -1181,7 +1181,7 @@ ELECTION COMMISSION
 ├── APPOINTMENT PROCESS
 │   ├── Constitutional Council recommendation
 │   │   └── PM (Chair), CJ, Speaker, Deputy Speaker,
-│   │       Opposition Leader, Deputy Speaker (Provincial)
+│   │       Opposition Leader, Deputy Speaker
 │   ├── President's appointment
 │   └── Term: 6 years or age 65, whichever earlier
 │
@@ -1379,7 +1379,6 @@ DELIMITATION PROCEDURE
 ├── Objections and suggestions
 ├── Final delimitation order
 └── Publication in Nepal Gazette
-
 </pre>
 
 ### 3.3 Reservation and Inclusion
@@ -1411,11 +1410,7 @@ DELIMITATION PROCEDURE
 ---
 
 # 4. ELECTORAL PROCESS AND PROCEDURES
-
-
-
 ### 4.2 Voter Registration
-
 **Voter Eligibility:**
 - Nepali citizen
 - 18 years of age or above
@@ -1536,8 +1531,8 @@ NOMINATION PROCEDURE
 - Unique per constituency
 
 **Security Deposit:**
-- FPTP candidates: NPR 10,000-20,000
-- Refunded if gets minimum votes (10-25% depending on election)
+- FPTP candidates: different for federal, province and local
+- Refunded if gets minimum votes (10% of total vote cast)
 - Forfeited otherwise
 
 ### 4.4 Electoral Campaign
@@ -1714,7 +1709,7 @@ POLLING PROCESS (Step-by-Step)
    - Priority in queue
 
 4. **Election Officials on Duty:**
-   - Postal ballot (limited use)
+   - Postal ballot (not in use)
    - Proxy voting (not common)
 
 **Voting Hours:**
@@ -1723,8 +1718,6 @@ POLLING PROCESS (Step-by-Step)
 - Extended for last voter in queue
 
 ### 4.6 Vote Counting
-
-**Counting Process:**
 
 <pre>
 VOTE COUNTING PROCEDURE
@@ -1799,8 +1792,6 @@ Ballot is invalid if:
 
 # 5. ELECTION DISPUTE RESOLUTION
 
-### 5.1 Types of Electoral Disputes
-
 <pre>
 ELECTORAL DISPUTES
 │
@@ -1861,12 +1852,8 @@ DISPUTE RESOLUTION HIERARCHY
 - Electoral malpractices
 - Result materially affected
 
-**Procedure:**
-
 ### 5.3 Electoral Offenses and Penalties
-
-**Major Electoral Offenses:**
-
+*
 1. **Corrupt Practices:**
    - Bribery
    - Undue influence
@@ -1903,9 +1890,6 @@ DISPUTE RESOLUTION HIERARCHY
 # 6. POLITICAL PARTY MANAGEMENT
 
 ### 6.1 Political Party Registration
-
-**Requirements for Registration:**
-
 <pre>
 PARTY REGISTRATION PROCESS
 │
@@ -1979,8 +1963,6 @@ PARTY REGISTRATION PROCESS
    - Office bearer changes
 
 ### 6.3 Party Financing
-
-**Sources of Party Funds:**
 <pre>
 PARTY FUNDING SOURCES
 │
@@ -2042,13 +2024,9 @@ PARTY FUNDING SOURCES
 - Symbol forfeited
 
 ---
-
 # 7. RECENT ELECTORAL REFORMS AND PRACTICES
 
 ### 7.1 Technological Innovations
-
-**Current Technology Use:**
-
 <pre>
 ELECTION TECHNOLOGY
 │
