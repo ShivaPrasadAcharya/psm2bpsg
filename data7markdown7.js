@@ -58,14 +58,14 @@ RECRUITMENT & SELECTION MANAGEMENT (Human Resource Acquisition)
 <pre>
 LEGAL HIERARCHY
          |
-         ├── CONSTITUTION OF NEPAL 2015
-         │    ├── Article 240-242 (Public Service Commission)
+         ├── CONSTITUTION OF NEPAL (2015)
+         │    ├── Article 242-244 (Public Service Commission)
          │    ├── Fundamental Rights (Equality, Employment Rights)
          │    └── Directive Principles
          │
          ├── PRIMARY LEGISLATION
          │    ├── Civil Service Act, 2049 (1993)
-         │    ├── Public Service Commission Act, 2048 (1991)
+         │    ├── Public Service Commission Act, 2066 
          │    └── Local Government Operation Act, 2074 (2017)
          │
          └── SUBORDINATE LEGISLATION
@@ -77,24 +77,22 @@ LEGAL HIERARCHY
 
 ### 2.1 Constitutional Provisions
 
-**Article 240: Public Service Commission**
+**Article 242: Public Service Commission**
 - Establishment of federal Public Service Commission
 - Independent constitutional body
 - Conducts examinations and recommends appointments
 
-**Article 241: Functions of PSC**
+**Article 243: Functions of PSC**
 - Conduct examinations for civil service positions
 - Recommend appointments, promotions, transfers
 - Advise on service matters
 - Ensure merit-based recruitment
 
-**Article 242: Provincial Public Service Commission**
+**Article 244: Provincial Public Service Commission**
 - Each province shall have a Provincial PSC
 - Similar functions at provincial level
 
-**Inclusive Representation**
-- Provisions for women, Dalits, indigenous peoples, Madhesis, Tharus, Muslims, backward regions
-- Proportional inclusion principle in civil service
+
 
 ### 2.2 Civil Service Act, 2049 (1993)
 
@@ -156,14 +154,9 @@ RECRUITMENT MANAGEMENT INSTITUTIONS
 ### 3.2 Provincial and Local Level Institutions
 
 **Provincial Public Service Commission:**
-- Autonomous body at provincial level
+- Autonomous body at provincial & local level
 - Conducts recruitment for provincial civil service
 - Similar structure and functions as federal PSC
-
-**Local Service Commission:**
-- At local government level (municipalities)
-- Handles local service recruitment
-- Less formalized structure
 
 ---
 
@@ -478,13 +471,8 @@ SELECTION PRINCIPLES
 
 **General Age Limits:**
 - Minimum: 18 years
-- Maximum: 35 years (for most positions)
+- Maximum: 35 years (for most positions) [relaxation for woman 40]
 - Varies by level and position
-
-**Relaxations:**
-- Reserved categories: Additional 5 years
-- Persons with disabilities: Additional 5 years
-- Existing employees: Higher age limits for promotion
 
 ---
 
@@ -519,9 +507,9 @@ APPOINTMENT PROCESS
 
 **Competent Authorities:**
 - President: For top-level positions
-- Council of Ministers: For gazetted officers
-- Concerned Secretary: For non-gazetted staff
-- Provincial/Local authorities: For respective services
+- Council of Ministers: For Ist class gazetted officers
+- Concerned Secretary: For gazetted IIIrd & IInd staff
+- respective authorities: For non-gazetted officers
 
 ### 7.2 Probation Period
 
@@ -532,9 +520,8 @@ APPOINTMENT PROCESS
 - Allow evaluation of character and conduct
 
 **Duration:**
-- Non-gazetted: 1 year
-- Gazetted: 1-2 years
-- May be extended in exceptional cases
+- generally 1 year
+
 
 **During Probation:**
 - Performance evaluation
@@ -543,11 +530,6 @@ APPOINTMENT PROCESS
 - Not entitled to full benefits
 - Can be terminated without inquiry
 
-**Confirmation:**
-- Based on satisfactory performance
-- Completion of training requirements
-- Favorable evaluation report
-- Becomes permanent employee
 
 ---
 
