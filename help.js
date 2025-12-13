@@ -21,9 +21,22 @@ class HelpSystem {
 
     getHelpContent() {
         return `
+<pre>
+⌨️ Markdown-content:
+•1-Miscellaneous
+•2-Public Service: Design, Pilot र Implementation
+•3-Innovation around the Globe
+•4-Development Process Mgmt
+•5-Election Mgmt
+•6-Land Mgmt
+•7-recruitment & selection
+•8-cogovernance & coproduction
+</pre>
+
         <div class="modal-content">
             <span class="close">&times;</span>
             <h2 style="color: #667eea; margin-bottom: 20px;">📚 MySQL Query Help</h2>
+
             
             <div class="help-section">
                 <h3>🔍 Basic Query Structure</h3>

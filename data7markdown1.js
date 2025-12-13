@@ -146,7 +146,7 @@ The citizen-consumer model fundamentally misunderstands the nature of democratic
 
 `;
 window.markdown1Meta = { 
-  name: "Civil Law Set A",
+  name: "Miscellaneous",
    emoji: "📄"
 
    };
