@@ -4,7 +4,7 @@ var data4Status = `SNo,Name(RollNo),Topic,Remarks(✗=not submitted/ ✓=submitt
 03,Aastha Yadav(8),Smart-ID (Estonia),✓
 04,Anjali Chaudhary(5),X-Road (Estonia),✗
 05,Asmita Rai(4),e-Land Register (Estonia),✓
-06,Asmita Upreti(14),Population Registry (Estonia),✗
+06,Asmita Upreti(14),Population Registry (Estonia),✓
 07,Deeksha Rani(18),E-waste Recycling (China),✗
 08,Depa Oli(15),KSI Blockchain (Estonia),✗
 09,Dibina Dangol(6),e-Justice (Estonia),✗
