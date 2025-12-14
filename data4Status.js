@@ -1,4 +1,4 @@
-var data4Status = `SNo,Name(RollNo),Topic,Remarks(✗=not submitted, ✓=submitted)
+var data4Status = `SNo,Name(RollNo),Topic,Remarks(✗=not submitted/ ✓=submitted)
 01,Aaryaka Timsina(16),e-Identity (Estonia),✓
 02,Aashma Pokharel(2),e-Residency (Estonia),✗
 03,Aastha Yadav(8),Smart-ID (Estonia),✓
