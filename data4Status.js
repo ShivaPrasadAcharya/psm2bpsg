@@ -16,7 +16,7 @@ var data4Status = `SNo,Name(RollNo),Topic,Remarks(✗=not submitted/ ✓=submitt
 15,Parista Desar(10),Artificial Intelligence and Regulatory Sandbox (Singapore),✗
 16,Pratistha Khanal(23),Dubai 10x Innovations (UAE),✓
 17,Pritee Kumari Pandit(19),Global Development Lab (USA),✓
-18,Puspa Upadhayay(25),Seoul 50+ Policy (South Korea),✗
+18,Puspa Upadhayay(25),Seoul 50+ Policy (South Korea),✓
 19,Samriddhi Bhandari(12),Patient Innovation Platform(Portugal),✓
 20,Sapana Kumara Jha(17),Hyperloop Transportation (UAE),✓
 21,Shiksha Sharrof(22),M-Pesa Mobile Money (Kenya),✗
