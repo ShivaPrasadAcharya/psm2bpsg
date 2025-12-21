@@ -147,6 +147,41 @@
   color: #3a7bd5;
 }
 
+/* Floating TOC button */
+.floating-toc-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(135deg, #ef3704 0%, #f45c04 100%);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  z-index: 999;
+  opacity: 0.8;
+  line-height: 1;
+}
+
+.floating-toc-btn:hover {
+  opacity: 1;
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.6);
+  transform: translateY(-3px);
+}
+
+.floating-toc-btn:active {
+  transform: translateY(-1px);
+}
+
 @media (max-width: 600px) {
   .videos-ribbon-btn, .html-ribbon-btn, .md-ribbon-btn {
     padding: 8px 10px;
@@ -167,5 +202,12 @@
   .toc-container {
     padding: 8px 6px 6px 10px;
     font-size: 0.98em;
+  }
+  .floating-toc-btn {
+    bottom: 20px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
   }
 }

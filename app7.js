@@ -270,6 +270,24 @@
         var mdContent = container.querySelector('.markdown-content');
         mdContent.innerHTML = simpleMarkdownToHtml(content);
         addMarkdownSearch(container, mdKey);
+        addFloatingTocButton(mdContent);
+    }
+
+    function addFloatingTocButton(contentElement) {
+        var tocElement = contentElement.querySelector('#toc-top');
+        if (!tocElement) return;
+        var existingBtn = document.querySelector('.floating-toc-btn');
+        if (existingBtn) existingBtn.remove();
+        var btn = document.createElement('a');
+        btn.className = 'floating-toc-btn';
+        btn.href = '#toc-top';
+        btn.innerHTML = '↑';
+        btn.title = 'Back to Table of Contents';
+        btn.onclick = function(e) {
+            e.preventDefault();
+            tocElement.scrollIntoView({behavior: 'smooth', block: 'start'});
+        };
+        document.body.appendChild(btn);
     }
 
     function tryInjectMdMenu() {
