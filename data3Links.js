@@ -37,7 +37,7 @@ var data3Links = `ID,Categry,Subject,Remark,Link
 034,Sunita Pariyar-2079batch,Smart Nation Singapore Summary,pdf,DOCS/Smart_Nation_Singapore_Summary.pdf
 035,Document,Civil Code 2074,word doc,DOCS/civilcode2074.docx
 036,Document,Land Related Act 2021,word doc,DOCS/landrelatedact2021.docx
-037,Aaryaka Timsina-2079 batch, e-identy by aaryaka, pdf doc, DOCS/e-identy by aaryaka.pdf
+037,Aaryaka Timsina-2079 batch, e-identity by aaryaka, pdf doc, DOCS/e-identity aaryaka.pdf
 038,Mallika Dwariya -2079 batch, i-voting, pdf doc, DOCS/i-Voting (Estonia).pdf
 
 
