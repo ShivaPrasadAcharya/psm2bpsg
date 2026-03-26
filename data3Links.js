@@ -1,5 +1,6 @@
 // data3Links.js - Links Dataset
 var data3Links = `ID,Categry,Subject,Remark,Link
+00,BestAnswer-LongQuestionOnly,2082 Chaitra-PreBoard,DOCS/BestAnswerPreboard2082ChaitraAashmaAaryaka.pdf
 000,BestAnswer-Aastha-Aaryaka-Sunita,2082 Magh-IInd Schedule,pdf,DOCS/BestAnswerofIIndScheduledExam208maghbyAasthaAaryakaSunita.pdf
 001,Make a Call-2079batch,BPSG 7th sem-2082(Mansir),Contact Directory,https://shivaprasadacharya.github.io/callbpsgforthbatch/
 002,1.Contacts List,BPSG 7th sem-2082(Mansir),pdf,DOCS/studentinfo.pdf
