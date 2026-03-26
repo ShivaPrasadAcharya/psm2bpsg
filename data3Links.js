@@ -1,7 +1,7 @@
 // data3Links.js - Links Dataset
 var data3Links = `ID,Categry,Subject,Remark,Link
-001,Make a Call,BPSG 7th sem-2082(Mansir),Contact Directory,https://shivaprasadacharya.github.io/callbpsgforthbatch/
-002,Contacts,BPSG 7th sem-2082(Mansir) contact list,pdf,DOCS/studentinfo.pdf
+001,Make a Call-2079batch,BPSG 7th sem-2082(Mansir),Contact Directory,https://shivaprasadacharya.github.io/callbpsgforthbatch/
+002,Contacts List,BPSG 7th sem-2082(Mansir),pdf,DOCS/studentinfo.pdf
 003,Syllables,BPSG 7th sem-PSMII syllables,html,HTML/psm2syllablesbpsg.htm
 004,Past Questions,BPSG 7th sem-PSMII Past Question,pdf,DOCS/pastquestions.pdf
 005,Past Questions,BPSG 7th sem-PSMII Past Question,html,HTML/pastquestions.htm
