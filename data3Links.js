@@ -22,23 +22,23 @@ var data3Links = `ID,Categry,Subject,Remark,Link
 019,Presentation,General Presentation,powerpoint,DOCS/Presentation.pptx
 020,Presentation,General Presentation,pdf,DOCS/Presentation.pdf
 021,Syllables,PSMII Syllables,word doc,DOCS/psm2syllablesbpsg.docx
-022,PDF,a_2,pdf,DOCS/a_2.pdf
-023,PDF,Dibina Dangol_06,pdf,DOCS/Dibina Dangol_06.pdf
-024,PDF,Digital Public Infrastructure (India),pdf,DOCS/Digital Public Infrastructure (India).pdf
-025,PDF,DOC-20251215-WA0000.(4),pdf,DOCS/DOC-20251215-WA0000.(4).pdf
-026,Presentation,E-Government Development Index (UN),powerpoint,DOCS/E-Government Development Index (UN).pptx
-027,PDF,E-Residency Estonia,pdf,DOCS/E-Residency(Estonia).pdf
-028,PDF,e-police (1),pdf,DOCS/epolice (1).pdf
-029,PDF,Global Development Lab (USA) 2,pdf,DOCS/Global Development Lab (USA) 2.pdf
-030,PDF,Government Cloud Estonia,pdf,DOCS/govcloudbyjeeva.pdf
-031,Presentation,Government Cloud Estonia,powerpoint,DOCS/GOVERNMENT CLOUD ESTONIA.pptx
-032,PDF,Hyperloop Transportation,pdf,DOCS/Hyperloop Transportation.pdf
-033,PDF,KSI Blockchain Estonia,pdf,DOCS/KSI Blockchain Estonia final one.pdf
-034,PDF,Smart Nation Singapore Summary,pdf,DOCS/Smart_Nation_Singapore_Summary.pdf
+022,Nutan Thakur-2079 batch,Data Embassay,pdf,DOCS/a_2.pdf
+023,Dibina Dangol-2079 batch,E-Justice,pdf,DOCS/Dibina Dangol_06.pdf
+024,Deepika Yadav,Digital Public Infrastructure (India),pdf,DOCS/Digital Public Infrastructure (India).pdf
+025,Deeksha Rani-2079 batch,E-Waste Recyling of China,pdf,DOCS/DOC-20251215-WA0000.(4).pdf
+026,Suruchi Pandey-2079 batch,E-Government Development Index (UN),powerpoint,DOCS/E-Government Development Index (UN).pptx
+027,Ashma Pokharel -2079 batch,E-Residency Estonia,pdf,DOCS/E-Residency(Estonia).pdf
+028,Kritika Kathayat -2079 batch,e-police (1),pdf,DOCS/epolice (1).pdf
+029,Preeti Kumari Pandit-2079 batch,Global Development Lab (USA) 2,pdf,DOCS/Global Development Lab (USA) 2.pdf
+030,Jeeya Shakya-2078batch,Government Cloud Estonia,pdf,DOCS/govcloudbyjeeya.pdf
+031,Manisha Yadav-2079 batch,Government Cloud Estonia,powerpoint,DOCS/GOVERNMENT CLOUD ESTONIA.pptx
+032,Sapana Jha-2079 batch,Hyperloop Transportation,pdf,DOCS/Hyperloop Transportation.pdf
+033,Dipa Oli-2079 batch,KSI Blockchain Estonia,pdf,DOCS/KSI Blockchain Estonia final one.pdf
+034,Sunita Pariyar-2079batch,Smart Nation Singapore Summary,pdf,DOCS/Smart_Nation_Singapore_Summary.pdf
 035,Document,Civil Code 2074,word doc,DOCS/civilcode2074.docx
 036,Document,Land Related Act 2021,word doc,DOCS/landrelatedact2021.docx
-037,PDF, e-identy by aaryaka, pdf doc, DOCS/e-identy by aaryaka.pdf
-038,PDF, i-voting, pdf doc, DOCS/i-voting (Estonia).pdf
+037,Aaryaka-2078 batch, e-identy by aaryaka, pdf doc, DOCS/e-identy by aaryaka.pdf
+038,-, i-voting, pdf doc, DOCS/i-Voting (Estonia).pdf
 
 
 `;
